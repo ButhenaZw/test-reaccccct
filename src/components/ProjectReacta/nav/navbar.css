@@ -1,0 +1,23 @@
+.signup-btn{
+    background: linear-gradient(to bottom, #ff9800, #ff3d00);
+    color:white;
+    font-weight: 600;
+    border: 2px white solid;
+}
+.signup-btn:hover{
+    background: linear-gradient(to bottom, #c67700, #c52f01);
+}
+
+.login-btn{
+font-weight: 600;
+background-color : white;
+border:1px solid black;
+border-radius:10px;
+height:36px;
+width:80px;
+}
+.login-btn:hover{
+    color:white;
+    background-color: black;
+    border:1px white solid;
+}
